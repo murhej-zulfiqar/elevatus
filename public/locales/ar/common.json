@@ -1,0 +1,22 @@
+{
+  "text_box_placeholder": "ابحث حسب الاسم",
+  "lang": "English",
+  "locale": "en",
+  "not_available": "غير معروف",
+  "description": "الوصف",
+  "requirements": "المتطلبات",
+  "languages": "اللغات المطلوبة",
+  "skills": "المهارات ",
+  "salary_range": "نطاق الراتب : ",
+  "posted_at": "نشر في : ",
+  "office": "مكان العمل: ",
+  "industry": "مجال العمل:",
+  "job_type": "نوع العمل:",
+  "experience": "سنوات الخبرة: ",
+  "degree": "درجة التعليم: ",
+  "seniority": "مستوى الوظيفة : ",
+  "view_job": "عرض",
+  "search": "بحث",
+  "jobs": "الوظائف",
+  "apply": "تقدم"
+}

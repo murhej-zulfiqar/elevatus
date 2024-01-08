@@ -1,0 +1,22 @@
+{
+  "text_box_placeholder": "Search by title",
+  "lang": "العربية",
+  "locale": "ar",
+  "not_available": "N/A",
+  "description": "Description",
+  "requirements": "Requirements",
+  "languages": "Languages",
+  "skills": "Skills",
+  "salary_range": "Salary range: ",
+  "posted_at": "Posted on: ",
+  "office": "Office: ",
+  "industry": "Industry: ",
+  "job_type": "Job type: ",
+  "experience": "Experience years: ",
+  "degree": "Degree: ",
+  "seniority": "Seniority: ",
+  "view_job": "View",
+  "search": "Search",
+  "jobs": "Jobs",
+  "apply": "Apply"
+}
